@@ -1,4 +1,4 @@
-# [ICLR 2026] Sample Lottery: Unsupervised Discovery of Critical Instances for LLM Reasoning
+# [ICLR 2026] Sample Lottery: Unsupervised Discovery of Critical Instances in RLVR of LLMs
 
 This repository contains the official implementation for the ICLR 2026 submission, "Sample Lottery: Unsupervised Discovery of Critical Instances for LLM Reasoning".
 
